@@ -58,7 +58,7 @@ The Smart Waste & Food Management System bridges the gap between surplus food an
 
 1. **📥 Clone the repository**
    ```bash
-   git clone https://github.com/omm-prog/Food-Waste-Management.git
+   git clone https://github.com/omm-prog/Real-time-Logistics-Coordination-Platform-NGO-focused
    cd Food-Waste-Management
    ```
 
