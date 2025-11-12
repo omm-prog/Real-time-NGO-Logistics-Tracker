@@ -25,5 +25,5 @@ def create_ngo_profile():
     db.collection("ngoProfile").document(ngo_id).set(ngo_data)
     print(f"✅ NGO Profile Created for {ngo_id}")
 
-# ✅ Function Call Karo
+# ✅ Function Call
 create_ngo_profile()
